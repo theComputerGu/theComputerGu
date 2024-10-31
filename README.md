@@ -1,4 +1,4 @@
-# Hi 👋! My name is Mark, I'm a Software Engineer and a 3rd year Computer Science student at Bar-Ilan University
+# Hi! My name is Mark, I'm a Software Engineer and a 3rd year Computer Science student at Bar-Ilan University
 
 I am actively looking for a Student Software Engineer role. Message me on LinkedIn if you know about one!
 
@@ -29,6 +29,3 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/mark-sheinberg-6581212
 ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)
 
 ## Some of my projects:
-- [Project 1](https://github.com/yourusername/project1) - Brief description of Project 1
-- [Project 2](https://github.com/yourusername/project2) - Brief description of Project 2
-- [Project 3](https://github.com/yourusername/project3) - Brief description of Project 3
