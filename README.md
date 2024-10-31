@@ -2,7 +2,7 @@
 
 I am actively looking for a Student Software Engineer role. Message me on LinkedIn if you know about one!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-sheinberg-658121248/)
+Connect with me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-sheinberg-658121248/)
 
 ## About myself:
 👨‍💻 **3rd-year Computer Science student at Bar-Ilan University** with a strong passion for Software Development and Cloud technologies. Looking for a Full Stack or Backend Engineer role. My academic focus includes Object-Oriented Programming, Algorithms, and Data Structures, providing a solid foundation for creating efficient, scalable software solutions.
