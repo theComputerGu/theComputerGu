@@ -8,7 +8,7 @@ I am actively looking for a Student Software Engineer role. Message me on Linked
 ---
 
 ## 👋 About Me  
-I’m a Computer Science graduate with a deep passion for software development, actively seeking a junior position in the field. With strong technical expertise and experience across various projects, I’m committed to continuous learning and thrive in collaborative, team-based environments. I'm motivated, open to new challenges, and dedicated to contributing effectively.
+I’m a Computer Science student with a deep passion for software development, actively seeking a student position in the field. With strong technical expertise and experience across various projects, I’m committed to continuous learning and thrive in collaborative, team-based environments. I'm motivated, open to new challenges, and dedicated to contributing effectively.
 
 ---
 
