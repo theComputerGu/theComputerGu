@@ -33,6 +33,7 @@ For details, please visit my GitHub: https://github.com/theComputerGu/AndroidYou
 concepts and implementing design patterns.
 * Focused on creating a dynamic game experience, handling game mechanics and user interaction.
 * Enhanced project management skills by organizing development phases.
+For details, please visit my GitHub: https://github.com/theComputerGu/Java-Game
 
 ---
 
