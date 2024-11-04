@@ -14,7 +14,7 @@ I’m a Computer Science graduate with a deep passion for software development, 
 
 ## 💻 Technical Skills  
 **Programming Languages:**  
-C | C++ | C# | Java | Python | Assembly x86 | JavaScript | React | HTML5 | CSS | Node.js  
+C | C++ | C# | Java | Python | Assembly x86 | JavaScript | React | HTML | CSS | Node.js  
 
 **Systems & Tools:**  
 Linux | Git | MongoDB | SQL & NoSQL | Object-Oriented Programming (OOP) | Machine Learning (ML) | Data Structures | Algorithms  
@@ -23,22 +23,22 @@ Linux | Git | MongoDB | SQL & NoSQL | Object-Oriented Programming (OOP) | Machin
 
 ## 📂 Projects  
 
-### Final Project: [Schedy - Shift Placement System](https://github.com/naamamat/Schedy)  
-Developed a shift placement system using an evolutionary algorithm to optimize schedules, enhancing workforce management efficiency. The project features a React-based frontend, a Node.js and MongoDB backend, and integrates Python for the scheduling algorithm.
-
-### Android Chat Application: [Pitputit](https://github.com/naamamat/AndroidChatApp)  
-Messaging platform with a NodeJS server, React web app, and Android app, allowing users to register, manage contacts, send and receive messages in real-time, and customize themes.
-
-### K-Nearest Neighbors (KNN) Algorithm: [Pattern Classification](https://github.com/naamamat/KNN-Pattern-Classification)  
-Implemented in C++ for pattern classification tasks, utilizing Distance slams for precise calculations and sockets for client-server communication.
-
-### Arkanoid Ball Game: [Interactive Game](https://github.com/naamamat/Arkanoid_Ball_Game)  
-Developed an interactive Arkanoid-style game in Java, utilizing Object-Oriented Programming (OOP) principles.
+### YouTube Clone – Android Application
+* Built a YouTube clone Application, using Android Studio and MongoDB for video storage and user 
+management.
+* Worked as a part of a team and utilized Git and Jira for managing the project’s progress.
+For details, please visit my GitHub: https://github.com/theComputerGu/AndroidYouTube
+### Akranoid Clone – Java Game
+* Independently developed an Akranoid clone using Java, applying Object-Oriented Programming 
+concepts and implementing design patterns.
+* Focused on creating a dynamic game experience, handling game mechanics and user interaction.
+* Enhanced project management skills by organizing development phases.
 
 ---
 
 ## 🚀 Let’s Connect!  
 I’m always open to collaborating on projects or discussing software development!  
 
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/naama-matzliach)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mark-sheinberg-658121248/)
+
 
