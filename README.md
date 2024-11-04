@@ -1,5 +1,5 @@
 # Mark Sheinberg
-##  I'm a Software Engineer and a 3rd year Computer Science student at Bar-Ilan University
+####  I'm a Software Engineer and a 3rd year Computer Science student at Bar-Ilan University
 
 I am actively looking for a Student Software Engineer role. Message me on LinkedIn if you know about one!
 
