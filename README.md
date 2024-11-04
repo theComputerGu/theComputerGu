@@ -3,11 +3,7 @@
 
 I am actively looking for a Student Software Engineer role. Message me on LinkedIn if you know about one!
 
-Connect with me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-sheinberg-658121248/)
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naama-matzliach)
+Connect with me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-sheinberg-658121248/)
 
 ---
 
