@@ -27,13 +27,13 @@ Linux | Git | MongoDB | SQL & NoSQL | Object-Oriented Programming (OOP) | Machin
 * Built a YouTube clone Application, using Android Studio and MongoDB for video storage and user 
 management.
 * Worked as a part of a team and utilized Git and Jira for managing the project’s progress.
-For details, please visit my GitHub: https://github.com/theComputerGu/AndroidYouTube
+https://github.com/theComputerGu/AndroidYouTube
 ### Akranoid Clone – Java Game
 * Independently developed an Akranoid clone using Java, applying Object-Oriented Programming 
 concepts and implementing design patterns.
 * Focused on creating a dynamic game experience, handling game mechanics and user interaction.
 * Enhanced project management skills by organizing development phases.
-For details, please visit my GitHub: https://github.com/theComputerGu/Java-Game
+https://github.com/theComputerGu/Java-Game
 
 ---
 
